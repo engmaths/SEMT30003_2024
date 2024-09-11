@@ -1,9 +1,5 @@
-## 
-
-https://githubtocolab.com/engmaths/SEMT30003_2024/blob/main/data/Brochier_et_al/brochier_et_al_excerpt.ipynb
 
 These data are taken from 
-
 > [Brochier, Thomas, et al. "Massively parallel recordings in macaque 
 > motor cortex during an instructed delayed reach-to-grasp task." 
 > Scientific data 5.1 (2018): 1-23.](https://www.nature.com/articles/sdata201855)
