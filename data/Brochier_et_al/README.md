@@ -4,8 +4,9 @@ These data are taken from
 > motor cortex during an instructed delayed reach-to-grasp task." 
 > Scientific data 5.1 (2018): 1-23.
 
-> The full data for this paper can be found at
-> gin.g-node.org/INT/multielectrode_grasp
+
+The full data for this paper can be found at
+[https://gin.g-node.org/INT/multielectrode_grasp](https://gin.g-node.org/INT/multielectrode_grasp)
 
 This example uses only a small subset of a single recording, 
 i140703-001_lfp-spikes.mat, which you can download at
